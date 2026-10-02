@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "BharatVibe",
+    "slug": "bharatvibe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.bharatvibe.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e1e8dbdb-edfb-4696-83b5-ece866a6862d"
+      }
+    }
+  }
+}
