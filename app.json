@@ -1,1 +1,11 @@
-{"expo":{"name":"BharatVibe","slug":"bharatvibe","version":"1.1.0","orientation":"portrait","userInterfaceStyle":"dark","android":{"package":"com.bharatvibe.app"},"ios":{"bundleIdentifier":"com.bharatvibe.app"}}}
+{
+  "expo": {
+    "name": "BharatVibe",
+    "slug": "bharatvibe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.bharatvibe.app"
+    }
+  }
+}
