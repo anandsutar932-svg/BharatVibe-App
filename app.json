@@ -6,6 +6,11 @@
     "orientation": "portrait",
     "android": {
       "package": "com.bharatvibe.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7da3079d-37be-40f8-8adf-ed600fb80f7e"
+      }
     }
   }
 }
